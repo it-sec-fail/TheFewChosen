@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+2000          0x7D0           PNG image, 1890 x 1417, 8-bit/color RGB, non-interlaced
+2062          0x80E           Zlib compressed data, default compression
+

@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Nov 26 20:52:18 2021
+Invocation: foremost AAAAA 
+Output directory: /home/ulli/Documents/ctf/TheFewChosen/forensics/AAAAA/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: AAAAA
+Start: Fri Nov 26 20:52:18 2021
+Length: 157 KB (161049 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000003.png 	     153 KB 	       2000 	  (1890 x 1417)
+Finish: Fri Nov 26 20:52:18 2021
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Nov 26 20:52:18 2021
