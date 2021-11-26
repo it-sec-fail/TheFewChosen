@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Nov 26 20:14:54 2021
+Invocation: foremost crackity.jar 
+Output directory: /home/ulli/Documents/ctf/TheFewChosen/reverse/crackity/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: crackity.jar
+Start: Fri Nov 26 20:14:54 2021
+Length: 56 KB (58005 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Fri Nov 26 20:14:54 2021
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Fri Nov 26 20:14:54 2021
