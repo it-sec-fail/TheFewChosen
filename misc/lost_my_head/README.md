@@ -16,4 +16,6 @@ In the `exif` we can find some coordinates. These coordinates will bring us to r
 
 The trashcans look similar to the pitcure.
 
+So it should be the street "Simion Musat 4" - according to position of the trashcan.
 
+> TFCCTF{Simion_Musat_4}
