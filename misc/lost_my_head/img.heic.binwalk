@@ -1,0 +1,6 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+1351          0x547           Copyright string: "Copyright Apple Inc., 2017"
+2501          0x9C5           TIFF image data, big-endian, offset of first image directory: 8
+
