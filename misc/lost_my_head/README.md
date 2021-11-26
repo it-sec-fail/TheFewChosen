@@ -11,6 +11,9 @@ Like always we should first check `strings`, `file` and so on.
 Please see the logfiles.
 
 In the `exif` we can find some coordinates. These coordinates will bring us to romania.
+
+> 46°46'50.7"N 23°36'54.3"E
+
 The trashcans look similar to the pitcure.
 
 
