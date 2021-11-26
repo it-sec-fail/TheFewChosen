@@ -24,7 +24,7 @@ We have developed the website from the ground up to ensure that the participants
  - There are challenges for everyone. Each challenge has a rating (warmup, easy, medium, hard)
  - There is a dynamic score system. This means that the more teams solve a challenge, the less points the following teams will get
  - Official writeups will be released at the end of the CTF. Community writeups are strongly encouraged
- - You can join our Discord server for announcements, help and memes: [](https://discord.gg/nVYv3mHKUf)
+ - You can join our Discord server for announcements, help and memes: [https://discord.gg/nVYv3mHKUf](https://discord.gg/nVYv3mHKUf)
  - Have fun!
  - Prizes:
    - Wolfram:
