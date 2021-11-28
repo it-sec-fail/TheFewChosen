@@ -2,6 +2,8 @@
 
 ![](logo.svg) ![](logo.png)
 
+![](tfc-logo.png)
+
 The Few Chosen organizes its first CTF event between 26th-28th November. We are a group of 5 students that have participated in numerous CTFs, and our passion for cybersecurity encouraged us to host our own.
 
 We have developed the website from the ground up to ensure that the participants will have the best experience. We are going to have challenges from Pwn, Reverse, Web, Crypto, Misc. The CTF is for everyone, no matter the knowledge, as the challenges are rated from "Warmup" to "Hard". This CTF is the perfect occasion for beginners to learn their way through cybersecurity and experts who want to test their skills.
