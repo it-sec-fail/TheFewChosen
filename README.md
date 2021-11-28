@@ -10,6 +10,12 @@ We have developed the website from the ground up to ensure that the participants
 
 ## Links
 
+### Writeups
+
+You can find some writeups here in the github-repo or on [it-sec.fail](https://www.it-sec.fail).
+
+### Official
+
 [CTFTime Event](https://ctftime.org/event/1501)
 [TFCCTF Link](https://github.com/it-sec-fail/TheFewChosen)
 
